@@ -21,5 +21,15 @@
 
 <section id="pizzeria" class="content-section">
  <h2>Pizzería</h2>
-  <p>Pizzas caseras GOMHER fundadas en 20 es un negocio familiar que se basa en recetas tradicionales creadas por los mismos fundadores, buscando siempre sorprender a los paladares de los comensales, haciendo notar los inigualables sabores de pizzas, la pizzería trabaja en equipo para la mejor experiencia al comprar en la sucursal y al disfrutar de los productos.</p>
+  <p>Pizzas caseras GOMHER fundadas en 2015 es un negocio familiar que se basa en recetas tradicionales creadas por los mismos fundadores, buscando siempre sorprender a los paladares de los comensales, haciendo notar los inigualables sabores de pizzas, la pizzería trabaja en equipo para la mejor experiencia al comprar en la sucursal y al disfrutar de los productos.</p>
         </section>
+ <section id="requerimientos" class="content-section">
+<h2>Requerimientos funcionales</h2>
+            <ul>
+                <li>Gestión de menú.</li>
+                <li>Proceso de pedido.</li>
+                <li>Gestión de pedidos.</li>
+                <li>Gestión de usuarios.</li>
+                <li>Sistema de reseñas y calificaciones.</li>
+            </ul>
+            
