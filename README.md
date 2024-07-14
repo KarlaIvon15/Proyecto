@@ -18,3 +18,8 @@
  <h2>Proyecto: pizzería</h2>
             <p>Tomamos en cuenta el negocio de los papás de nuestro compañero Daniel, ya que no tienen una publicidad y le quisimos dar a ese problema de acuerdo a una página web. Donde los clientes desde la página web pueden observar los diferentes tipos de pizza y el tiempo de su pedido.</p>
             <p>Gracias a la información que nos asignó el campus pudimos comprender cada punto del documento y tuvimos un mejor análisis sobre nuestro proyecto y los diferentes procesos que debemos enfrentar antes de hacer nuestra página web.</p>
+
+<section id="pizzeria" class="content-section">
+ <h2>Pizzería</h2>
+  <p>Pizzas caseras GOMHER fundadas en 20 es un negocio familiar que se basa en recetas tradicionales creadas por los mismos fundadores, buscando siempre sorprender a los paladares de los comensales, haciendo notar los inigualables sabores de pizzas, la pizzería trabaja en equipo para la mejor experiencia al comprar en la sucursal y al disfrutar de los productos.</p>
+        </section>
