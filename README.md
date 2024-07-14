@@ -90,7 +90,7 @@
         </section>
 <section id="equipo" class="content-section">
             <h2>Organigrama de equipo</h2>
-            <img src="org.jpeg" alt="imagen" class="center">
+            <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/Diagrama%20de%20Equipo.png" alt="imagen" class="center">
         </section>
         
 
