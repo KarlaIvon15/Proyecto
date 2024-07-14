@@ -55,6 +55,13 @@
                 <li><strong>Análisis
                 </ul>
            
+<section id="clases-usuarios" class="content-section">
+            <h2>Clases y características de usuarios</h2>
+            <ul>
+                <li><strong>Primarios/Desarrolladores:</strong>Somos nosotros, como empresa estamos comprometidos con que la pagina salga a flote de la mejor manera, escucharemos al cliente de acuerdo a lo que necesitara, también aconsejaremos de acuerdo a nuestra experiencia, mencionando que se podría hacer y hasta donde podemos contemplar.</li>
+                <li><strong>Secundarios/Empresa que busca servicios de “Desarrolladores”:</strong>Son nuestros clientes, buscan impulsar su empresa al mundo digital, por lo regular ya tienen una esencia en el mercado, conocen a sus clientes, buscan maximizar sus ganancias y ofrecerles un mejor servicio y comodidad.</li>
+                <li><strong>Terciarios/Usuarios de pagina :</strong>Son clientes de las empresas, interactúan con la página a través de las compras, pueden crear cuentas, solo podrán visualizar la información, no pueden modifican datos.</li>
+         </section>
         
 
             
