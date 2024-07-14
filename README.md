@@ -79,7 +79,7 @@
             <p>Par desarrollar nuestro prototipo empleamos distintos bocetos por cada integrante de equipo para juntar ideas de cómo será la estructura y funcionalidad. Cada flecha representara la dirección que toma cada botón y la forma de como se desplazara el usuario por la página. </p>
             <p>En las siguientes imágenes se presentan las ideas con las que nos basamos para crear nuestro prototipo en el software XD, es una herramienta muy practica para desarrollar bocetos, a tal punto de tener una referencia de como funcionara.</p>
             <h1>Nuestro Wireframes</h1>
-            <img src="wireframes.jpeg" alt="imagen" class="center">
+            <img src="[wireframes.jpeg](https://github.com/KarlaIvon15/Proyecto/commit/2a4b583aad4fe46ad671f77f36dd50bffd8aa14c)" alt="imagen" class="center">
         </section>
 
 <section id="prototipo-maquetado" class="content-section">
