@@ -74,6 +74,14 @@
                 <li>Cumplimiento Normativo de Juego: Seguir regulaciones de la industria.</li>
                 <li>Soporte Técnico: Proceso eficiente de atención al cliente.</li>
             </ul>
+<section id="wireframes" class="content-section">
+            <h2>Wireframes</h2>
+            <p>Par desarrollar nuestro prototipo empleamos distintos bocetos por cada integrante de equipo para juntar ideas de cómo será la estructura y funcionalidad. Cada flecha representara la dirección que toma cada botón y la forma de como se desplazara el usuario por la página. </p>
+            <p>En las siguientes imágenes se presentan las ideas con las que nos basamos para crear nuestro prototipo en el software XD, es una herramienta muy practica para desarrollar bocetos, a tal punto de tener una referencia de como funcionara.</p>
+            <h1>Nuestro Wireframes</h1>
+            <img src="wireframes.jpeg" alt="imagen" class="center">
+        </section>
+
 
         
 
