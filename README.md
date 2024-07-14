@@ -41,5 +41,8 @@
                 <li>Accesibilidad</li>
                 <li>Disponibilidad</li>
             </ul>
+            <h2>Alcance del producto</h2>
+            <p>Llegar a más clientes, maximizando ganancias, este incremento será a nivel regional, las comunidades más cercanas a la sucursal, que sea más conocido y por parte de la empresa BROWSEweb ganar clientes que confíen en nuestro trabajo, ofreciendo efectividad, seguridad y profesionalismo.</p>
+        
 
             
