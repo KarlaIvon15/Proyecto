@@ -88,6 +88,10 @@
             <h1>Nuestro Maquetado</h1>
             <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/WhatsApp%20Image%202024-07-13%20at%207.23.32%20PM.jpeg" alt="imagen" class="center">
         </section>
+<section id="equipo" class="content-section">
+            <h2>Organigrama de equipo</h2>
+            <img src="org.jpeg" alt="imagen" class="center">
+        </section>
         
 
             
