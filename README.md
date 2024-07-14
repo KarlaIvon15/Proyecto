@@ -62,6 +62,19 @@
                 <li><strong>Secundarios/Empresa que busca servicios de “Desarrolladores”:</strong>Son nuestros clientes, buscan impulsar su empresa al mundo digital, por lo regular ya tienen una esencia en el mercado, conocen a sus clientes, buscan maximizar sus ganancias y ofrecerles un mejor servicio y comodidad.</li>
                 <li><strong>Terciarios/Usuarios de pagina :</strong>Son clientes de las empresas, interactúan con la página a través de las compras, pueden crear cuentas, solo podrán visualizar la información, no pueden modifican datos.</li>
          </section>
+         <h2>Reglas de Negocio</h2>
+            <ul>
+                <li>Política de Privacidad: Utilización de datos con consentimiento explícito.</li>
+                <li>Acceso a Datos Sensibles: Acceso restringido a datos sensibles.</li>
+                <li>Actualización de Datos: Actualización periódica de datos.</li>
+                <li>Uso Ético de Datos: Utilización de datos para mejorar experiencia de juego.</li>
+                <li>Integridad de Datos: Medidas para asegurar integridad de datos.</li>
+                <li>Compatibilidad de APIs: APIs compatibles con sistemas comunes.</li>
+                <li>Notificación de Cambios: Comunicación clara sobre cambios.</li>
+                <li>Cumplimiento Normativo de Juego: Seguir regulaciones de la industria.</li>
+                <li>Soporte Técnico: Proceso eficiente de atención al cliente.</li>
+            </ul>
+
         
 
             
