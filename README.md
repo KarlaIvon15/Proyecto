@@ -19,11 +19,10 @@
             <p>Tomamos en cuenta el negocio de los papás de nuestro compañero Daniel, ya que no tienen una publicidad y le quisimos dar a ese problema de acuerdo a una página web. Donde los clientes desde la página web pueden observar los diferentes tipos de pizza y el tiempo de su pedido.</p>
             <p>Gracias a la información que nos asignó el campus pudimos comprender cada punto del documento y tuvimos un mejor análisis sobre nuestro proyecto y los diferentes procesos que debemos enfrentar antes de hacer nuestra página web.</p>
 
-<section id="pizzeria" class="content-section">
+
  <h2>Pizzería</h2>
   <p>Pizzas caseras GOMHER fundadas en 2015 es un negocio familiar que se basa en recetas tradicionales creadas por los mismos fundadores, buscando siempre sorprender a los paladares de los comensales, haciendo notar los inigualables sabores de pizzas, la pizzería trabaja en equipo para la mejor experiencia al comprar en la sucursal y al disfrutar de los productos.</p>
-        </section>
- <section id="requerimientos" class="content-section">
+        
 <h2>Requerimientos funcionales</h2>
             <ul>
                 <li>Gestión de menú.</li>
@@ -41,8 +40,21 @@
                 <li>Accesibilidad</li>
                 <li>Disponibilidad</li>
             </ul>
-            <h2>Alcance del producto</h2>
+             
+ <h2>Alcance del producto</h2>
             <p>Llegar a más clientes, maximizando ganancias, este incremento será a nivel regional, las comunidades más cercanas a la sucursal, que sea más conocido y por parte de la empresa BROWSEweb ganar clientes que confíen en nuestro trabajo, ofreciendo efectividad, seguridad y profesionalismo.</p>
+
+ <h2>Funcionalidades</h2>
+            <ul>
+                <li><strong>Diseño Web Personalizado:</strong> La empresa ofrece servicios de diseño web personalizados para reflejar la identidad única de cada negocio. Esto incluye la elección de colores, tipografías, imágenes y estructuras que mejor representen la marca del cliente.</li>
+                <li><strong>Desarrollo Web:</strong> Utilizando tecnologías modernas y lenguajes de programación como HTML, CSS, JavaScript y frameworks como React o Angular, la empresa desarrolla sitios web funcionales y responsivos que se adaptan a diferentes dispositivos y tamaños de pantalla.</li>
+                <li><strong>Gestión de Contenidos:</strong> Ofrecen sistemas de gestión de contenidos (CMS) como WordPress, que permiten a los propietarios de negocios actualizar y manejar su contenido de manera sencilla y sin necesidad de conocimientos técnicos profundos.</li>
+                <li><strong>Integración de E-commerce:</strong> Para los negocios que venden productos o servicios en línea, la empresa puede integrar soluciones de comercio electrónico, como carritos de compra, pasarelas de pago seguras y gestión de inventarios.</li>
+                <li><strong>Mantenimiento y Soporte Técnico:</strong> Proveen servicios de mantenimiento continuo para asegurar que los sitios web funcionen sin problemas, incluyendo actualizaciones de seguridad, copias de seguridad.</li>
+                <li><strong>Marketing Digital:</strong> Ofrecen servicios adicionales de marketing digital, como la gestión de redes sociales, campañas de publicidad en línea (Google Ads, Facebook Ads), y marketing por correo electrónico para atraer y retener clientes.</li>
+                <li><strong>Análisis
+                </ul>
+           
         
 
             
