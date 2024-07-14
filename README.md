@@ -13,5 +13,5 @@
      
  <section id="justificacion" class="content-section">
  <h2>Justificación</h2>
-            <p>Cuando un cliente tiene antojo de comprar una pizza, en la región de la Villa Ávila Camacho, la mayoría piensa en las pizzas GOMHER, por el tiempo que lleva en el mercado, y ha conseguido posicionarse en la comunidad, lo que buscamos es expandir y darse a conocer a más clientes, para ello diseñaremos una página web de la pizzería, que contará con lo necesario para ofrecer un pedido en línea con el fin de reducir los tiempos y nuestro objetivo es que nuestros clientes tengan una mejor comodidad, conocimiento de los diferentes tipos de pizzas, y seguridad al comprar en línea, brindando un mejor servicio.</p>
+            <p>Cuando un cliente tiene antojo de comprar una pizza, en la región de Villa Ávila Camacho, la mayoría piensa en las pizzas GOMHER, por el tiempo que lleva en el mercado, y ha conseguido posicionarse en la comunidad, lo que buscamos es expandir y darse a conocer a más clientes, para ello diseñaremos una página web de la pizzería, que contará con lo necesario para ofrecer un pedido en línea con el fin de reducir los tiempos y nuestro objetivo es que nuestros clientes tengan una mejor comodidad, conocimiento de los diferentes tipos de pizzas, y seguridad al comprar en línea, brindando un mejor servicio al cliente.</p>
         </section>
