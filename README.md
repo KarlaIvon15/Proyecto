@@ -82,7 +82,12 @@
             <img src="wireframes.jpeg" alt="imagen" class="center">
         </section>
 
-
+<section id="prototipo-maquetado" class="content-section">
+            <h2>Prototipo o maquetado</h2>
+            <p>Con basea nuestros bocetos fuimos juntando las ideas conservando una misma estructura lo mas practica posible, que sea comprencible y vistosa para los usuarios, la paleta de colores es primordial para conservar la ecensia del negicio, el tipo de letra, tamaño de imágenes, y demas cosas influyeron en nuestras opciones para tener una buena pagina. </p>
+            <h1>Nuestro Maquetado</h1>
+            <img src="maquetado.jpeg" alt="imagen" class="center">
+        </section>
         
 
             
