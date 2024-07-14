@@ -32,4 +32,14 @@
                 <li>Gestión de usuarios.</li>
                 <li>Sistema de reseñas y calificaciones.</li>
             </ul>
+           <h2>Requerimientos no funcionales</h2>
+            <ul>
+                <li>Rendimiento</li>
+                <li>Utilidad</li>
+                <li>Seguridad</li>
+                <li>Localización</li>
+                <li>Accesibilidad</li>
+                <li>Disponibilidad</li>
+            </ul>
+
             
