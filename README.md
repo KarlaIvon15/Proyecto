@@ -80,7 +80,7 @@
             <p>En las siguientes imágenes se presentan las ideas con las que nos basamos para crear nuestro prototipo en el software XD, es una herramienta muy practica para desarrollar bocetos, a tal punto de tener una referencia de como funcionara.</p>
             <h1>Nuestro Wireframes</h1>
             <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/WhatsApp%20Image%202024-07-13%20at%207.23.15%20PM.jpeg" alt="imagen" class="center">
-      
+            <img src="wilj.peg.jpeg" alt="imagen" class="center">
 
  <h2>Prototipo o maquetado</h2>
             <p>Con basea nuestros bocetos fuimos juntando las ideas conservando una misma estructura haci creando un solo prototipo, que sea comprencible y vistosa para los usuarios, la paleta de colores es primordial para conservar la esencias del negocio, el tipo de letra, tamaño de imágenes, y demas cosas influyeron en nuestras opciones para tener una buena pagina. </p>
