@@ -71,7 +71,7 @@
                 <li>Compatibilidad de APIs: APIs compatibles con sistemas comunes.</li>
                 <li>Notificación de Cambios: Comunicación clara sobre cambios.</li>
                 <li>Cumplimiento Normativo de Juego: Seguir regulaciones de la industria.</li>
-                <li>Soporte Técnico: Proceso eficiente de atención al cliente.</li>
+                <li>Soporte Técnico: Proceso eficiente de atención al cliente.</li> 
             </ul>
 
 <h2>Wireframes</h2>
