@@ -9,14 +9,14 @@
             <p>Somos una empresa responsable, organizada y apasionada al realizar cada proyecto que realizamos.</p>
             
 <h2>Objetivo</h2>
-            <p>A través de una página web se puede ofrecer un servicio de pedido en línea a fin de reducir tiempos, mejorar el servicio              y tener clientes satisfechos, así tendremos un control de los pedidos y una administración de cierto tiempo desde la página              y atraer más clientes y fidelizarlos.</p>
+            <p>A través de una página web se puede ofrecer un servicio de pedido en línea a fin de reducir tiempos, mejorar el servicio y tener clientes satisfechos, así tendremos un control de los pedidos y una administración de cierto tiempo desde la página y atraer más clientes y fidelizarlos.</p>
      
  <h2>Justificación</h2>
-            <p>Cuando un cliente tiene antojo de comprar una pizza, en la región de Villa Ávila Camacho, la mayoría piensa en las pizzas GOMHER, por el tiempo que lleva en el mercado, y ha conseguido posicionarse en la comunidad, lo que buscamos es expandir y darse a conocer a más clientes, para ello diseñaremos una página web de la pizzería, que contará con lo necesario para ofrecer un pedido en línea con el fin de reducir los tiempos y nuestro objetivo es que nuestros clientes tengan una mejor comodidad, conocimiento de los diferentes tipos de pizzas, y seguridad al comprar en línea, brindando un mejor servicio al cliente.</p>
+            <p>Cuando un cliente tiene antojo de comprar una pizza, en la región de Villa Ávila Camacho(la ceiba), la mayoría piensan en las pizzas GOMHER, por el tiempo que lleva en el mercado, y ha conseguido posicionarse en la comunidad, lo que buscamos es expandir y darse a conocer a más clientes, para ello diseñaremos una página web de la pizzería, que contará con lo necesario para ofrecer un pedido en línea con el fin de reducir los tiempos y nuestro objetivo es que nuestros clientes tengan una mejor comodidad, conocimiento de los diferentes tipos de pizzas, y seguridad al comprar en línea, brindando un mejor servicio al cliente.</p>
         </section>
 
  <h2>Proyecto: pizzería</h2>
-            <p>Tomamos en cuenta el negocio de los papás de nuestro compañero Daniel, ya que no tienen una publicidad y le quisimos dar a ese problema de acuerdo a una página web. Donde los clientes desde la página web pueden observar los diferentes tipos de pizza y el tiempo de su pedido.</p>
+            <p>Tomamos en cuenta el negocio de los papás de nuestro compañero Daniel, ya que no tienen una publicidad y le quisimos ayudar a ese problema de acuerdo a una página web. Donde los clientes desde la página web puedan observar los diferentes tipos de pizza y el tiempo de su pedido.</p>
             <p>Gracias a la información que nos asignó el campus pudimos comprender cada punto del documento y tuvimos un mejor análisis sobre nuestro proyecto y los diferentes procesos que debemos enfrentar antes de hacer nuestra página web.</p>
 
 
@@ -76,7 +76,7 @@
             </ul>
 <section id="wireframes" class="content-section">
             <h2>Wireframes</h2>
-            <p>Par desarrollar nuestro prototipo empleamos distintos bocetos por cada integrante de equipo para juntar ideas de cómo será la estructura y funcionalidad. Cada flecha representara la dirección que toma cada botón y la forma de como se desplazara el usuario por la página. </p>
+            <p>Para desarrollar nuestro prototipo empleamos distintos bocetos por cada integrante de equipo para juntar ideas de cómo será la estructura y funcionalidad. Cada flecha representara la dirección que toma cada botón y la forma de como se desplazara el usuario por la página. </p>
             <p>En las siguientes imágenes se presentan las ideas con las que nos basamos para crear nuestro prototipo en el software XD, es una herramienta muy practica para desarrollar bocetos, a tal punto de tener una referencia de como funcionara.</p>
             <h1>Nuestro Wireframes</h1>
             <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/WhatsApp%20Image%202024-07-13%20at%207.23.15%20PM.jpeg" alt="imagen" class="center">
@@ -84,7 +84,7 @@
 
 <section id="prototipo-maquetado" class="content-section">
             <h2>Prototipo o maquetado</h2>
-            <p>Con basea nuestros bocetos fuimos juntando las ideas conservando una misma estructura lo mas practica posible, que sea comprencible y vistosa para los usuarios, la paleta de colores es primordial para conservar la ecensia del negicio, el tipo de letra, tamaño de imágenes, y demas cosas influyeron en nuestras opciones para tener una buena pagina. </p>
+            <p>Con basea nuestros bocetos fuimos juntando las ideas conservando una misma estructura haci creando un solo prototipo, que sea comprencible y vistosa para los usuarios, la paleta de colores es primordial para conservar la esencias del negocio, el tipo de letra, tamaño de imágenes, y demas cosas influyeron en nuestras opciones para tener una buena pagina. </p>
             <h1>Nuestro Maquetado</h1>
             <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/WhatsApp%20Image%202024-07-13%20at%207.23.32%20PM.jpeg" alt="imagen" class="center">
         </section>
