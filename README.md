@@ -55,14 +55,13 @@
                 <li><strong>Análisis
                 </ul>
            
-<section id="clases-usuarios" class="content-section">
-            <h2>Clases y características de usuarios</h2>
+<h2>Clases y características de usuarios</h2>
             <ul>
                 <li><strong>Primarios/Desarrolladores:</strong>Somos nosotros, como empresa estamos comprometidos con que la pagina salga a flote de la mejor manera, escucharemos al cliente de acuerdo a lo que necesitara, también aconsejaremos de acuerdo a nuestra experiencia, mencionando que se podría hacer y hasta donde podemos contemplar.</li>
                 <li><strong>Secundarios/Empresa que busca servicios de “Desarrolladores”:</strong>Son nuestros clientes, buscan impulsar su empresa al mundo digital, por lo regular ya tienen una esencia en el mercado, conocen a sus clientes, buscan maximizar sus ganancias y ofrecerles un mejor servicio y comodidad.</li>
                 <li><strong>Terciarios/Usuarios de pagina :</strong>Son clientes de las empresas, interactúan con la página a través de las compras, pueden crear cuentas, solo podrán visualizar la información, no pueden modifican datos.</li>
-         </section>
-         <h2>Reglas de Negocio</h2>
+
+<h2>Reglas de Negocio</h2>
             <ul>
                 <li>Política de Privacidad: Utilización de datos con consentimiento explícito.</li>
                 <li>Acceso a Datos Sensibles: Acceso restringido a datos sensibles.</li>
@@ -74,24 +73,21 @@
                 <li>Cumplimiento Normativo de Juego: Seguir regulaciones de la industria.</li>
                 <li>Soporte Técnico: Proceso eficiente de atención al cliente.</li>
             </ul>
-<section id="wireframes" class="content-section">
-            <h2>Wireframes</h2>
+
+<h2>Wireframes</h2>
             <p>Para desarrollar nuestro prototipo empleamos distintos bocetos por cada integrante de equipo para juntar ideas de cómo será la estructura y funcionalidad. Cada flecha representara la dirección que toma cada botón y la forma de como se desplazara el usuario por la página. </p>
             <p>En las siguientes imágenes se presentan las ideas con las que nos basamos para crear nuestro prototipo en el software XD, es una herramienta muy practica para desarrollar bocetos, a tal punto de tener una referencia de como funcionara.</p>
             <h1>Nuestro Wireframes</h1>
             <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/WhatsApp%20Image%202024-07-13%20at%207.23.15%20PM.jpeg" alt="imagen" class="center">
-        </section>
+      
 
-<section id="prototipo-maquetado" class="content-section">
-            <h2>Prototipo o maquetado</h2>
+ <h2>Prototipo o maquetado</h2>
             <p>Con basea nuestros bocetos fuimos juntando las ideas conservando una misma estructura haci creando un solo prototipo, que sea comprencible y vistosa para los usuarios, la paleta de colores es primordial para conservar la esencias del negocio, el tipo de letra, tamaño de imágenes, y demas cosas influyeron en nuestras opciones para tener una buena pagina. </p>
             <h1>Nuestro Maquetado</h1>
             <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/WhatsApp%20Image%202024-07-13%20at%207.23.32%20PM.jpeg" alt="imagen" class="center">
-        </section>
-<section id="equipo" class="content-section">
-            <h2>Organigrama de equipo</h2>
+   
+ <h2>Organigrama de equipo</h2>
             <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/Diagrama%20de%20Equipo.png" alt="imagen" class="center">
-        </section>
-        
+    
 
             
