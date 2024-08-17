@@ -20,7 +20,7 @@
             <p>Tomamos en cuenta el negocio de los papás de nuestro compañero Daniel, ya que no tienen una publicidad y le quisimos ayudar a ese problema de acuerdo a una página web. Donde los clientes desde la página web puedan observar los diferentes tipos de pizza y el tiempo de su pedido.</p>
             <p>Gracias a la información que nos asignó el campus pudimos comprender cada punto del documento y tuvimos un mejor análisis sobre nuestro proyecto y los diferentes procesos que debemos enfrentar antes de hacer nuestra página web.</p>
 
-             <h2>Funcionalidades</h2>
+<h2>Funcionalidades</h2>
             <ul>
                 <li><strong>Diseño Web Personalizado:</strong> La empresa ofrece servicios de diseño web personalizados para reflejar la identidad única de cada negocio. Esto incluye la elección de colores, tipografías, imágenes y estructuras que mejor representen la marca del cliente.</li>
                 <li><strong>Desarrollo Web:</strong> Utilizando tecnologías modernas y lenguajes de programación como HTML, CSS, JavaScript y frameworks como React o Angular, la empresa desarrolla sitios web funcionales y responsivos que se adaptan a diferentes dispositivos y tamaños de pantalla.</li>
@@ -30,9 +30,9 @@
                 <li><strong>Marketing Digital:</strong> Ofrecen servicios adicionales de marketing digital, como la gestión de redes sociales, campañas de publicidad en línea (Google Ads, Facebook Ads), y marketing por correo electrónico para atraer y retener clientes.</li>
                 <li><strong>Análisis
                 </ul>
-
-                            <h2>Reglas de Negocio</h2>
-            <ul>
+                            
+<h2>Reglas de Negocio</h2>
+ <ul>
                 <li>Política de Privacidad: Utilización de datos con consentimiento explícito.</li>
                 <li>Acceso a Datos Sensibles: Acceso restringido a datos sensibles.</li>
                 <li>Actualización de Datos: Actualización periódica de datos.</li>
@@ -43,7 +43,7 @@
                 <li>Cumplimiento Normativo de Juego: Seguir regulaciones de la industria.</li>
                 <li>Soporte Técnico: Proceso eficiente de atención al cliente.</li> 
             </ul>
-            
+    
  <h2>Pizzería</h2>
   <p>Pizzas caseras GOMHER fundadas en 2015 es un negocio familiar que se basa en recetas tradicionales creadas por los mismos fundadores, buscando siempre sorprender a los paladares de los comensales, haciendo notar los inigualables sabores de pizzas, la pizzería trabaja en equipo para la mejor experiencia al comprar en la sucursal y al disfrutar de los productos.</p>
         
