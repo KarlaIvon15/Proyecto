@@ -6,7 +6,7 @@
 <h2>Misión</h2>
             <p>Ser una empresa innovadora, reconocida por ofrecer soluciones que transforma negocios y convertirnos en la primera opcion para nuestros clientes al buscar crecimiento y evolucion.</p>
 
-            <h2>visión</h2>
+<h2>visión</h2>
             <p>covertirnos en la empresa lider en la creacion de paginas web innovadoras y personalizadas, trasformando la presencia digital de nuestros clientes y siendo reconocidos como la primera opcion para aquellos que buscan excelencia y crecimiento en el entorno digital.</p>
             
 <h2>Valores</h2>
