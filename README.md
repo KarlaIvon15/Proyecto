@@ -13,6 +13,11 @@
             <p>Somos una empresa responsable, organizada y apasionada al realizar cada proyecto que realizamos.</p>
 <h2>Organigrama de equipo</h2>
 <img src="https://github.com/KarlaIvon15/Proyecto/blob/main/Diagrama%20de%20Equipo.png" alt="imagen" class="center">
+ <h2>Proyecto: pizzería</h2>
+            <p>Tomamos en cuenta el negocio de los papás de nuestro compañero Daniel, ya que no tienen una publicidad y le quisimos ayudar a ese problema de acuerdo a una página web. Donde los clientes desde la página web puedan observar los diferentes tipos de pizza y el tiempo de su pedido.</p>
+            <p>Gracias a la información que nos asignó el campus pudimos comprender cada punto del documento y tuvimos un mejor análisis sobre nuestro proyecto y los diferentes procesos que debemos enfrentar antes de hacer nuestra página web.</p>
+             <h2>Pizzería</h2>
+  <p>Pizzas caseras GOMHER fundadas en 2015 es un negocio familiar que se basa en recetas tradicionales creadas por los mismos fundadores, buscando siempre sorprender a los paladares de los comensales, haciendo notar los inigualables sabores de pizzas, la pizzería trabaja en equipo para la mejor experiencia al comprar en la sucursal y al disfrutar de los productos.</p>
              
 <h2>Objetivo</h2>
             <p>A través de una página web se puede ofrecer un servicio de pedido en línea a fin de reducir tiempos, mejorar el servicio y tener clientes satisfechos, así tendremos un control de los pedidos y una administración de cierto tiempo desde la página y atraer más clientes y fidelizarlos.</p>
@@ -20,11 +25,6 @@
  <h2>Justificación</h2>
             <p>Cuando un cliente tiene antojo de comprar una pizza, en la región de Villa Ávila Camacho (la ceiba), la mayoría piensan en las pizzas GOMHER, por el tiempo que lleva en el mercado, y ha conseguido posicionarse en la comunidad, lo que buscamos es expandir y darnos a conocer entre los clientes, para ello diseñaremos una página web de la pizzería, que contará con lo necesario para ofrecer un pedido en línea con el fin de reducir los tiempos y nuestro objetivo es que nuestros clientes tengan una mejor comodidad al igual que el conocimiento de los diferentes tipos de pizzas, y seguridad al comprar en línea, brindando un mejor servicio al cliente.</p>
         </section>
-
- <h2>Proyecto: pizzería</h2>
-            <p>Tomamos en cuenta el negocio de los papás de nuestro compañero Daniel, ya que no tienen una publicidad y le quisimos ayudar a ese problema de acuerdo a una página web. Donde los clientes desde la página web puedan observar los diferentes tipos de pizza y el tiempo de su pedido.</p>
-            <p>Gracias a la información que nos asignó el campus pudimos comprender cada punto del documento y tuvimos un mejor análisis sobre nuestro proyecto y los diferentes procesos que debemos enfrentar antes de hacer nuestra página web.</p>
-
 <h2>Funcionalidades</h2>
             <ul>
                 <li><strong>Diseño Web Personalizado:</strong> La empresa ofrece servicios de diseño web personalizados para reflejar la identidad única de cada negocio. Esto incluye la elección de colores, tipografías, imágenes y estructuras que mejor representen la marca del cliente.</li>
@@ -48,9 +48,8 @@
                 <li>Cumplimiento Normativo de Juego: Seguir regulaciones de la industria.</li>
                 <li>Soporte Técnico: Proceso eficiente de atención al cliente.</li> 
             </ul>
-    
- <h2>Pizzería</h2>
-  <p>Pizzas caseras GOMHER fundadas en 2015 es un negocio familiar que se basa en recetas tradicionales creadas por los mismos fundadores, buscando siempre sorprender a los paladares de los comensales, haciendo notar los inigualables sabores de pizzas, la pizzería trabaja en equipo para la mejor experiencia al comprar en la sucursal y al disfrutar de los productos.</p>
+             <h2>Alcance del producto</h2>
+            <p>Llegar a más clientes, maximizando ganancias, este incremento será a nivel regional, las comunidades más cercanas a la sucursal, que sea más conocido y por parte de la empresa BROWSEweb ganar clientes que confíen en nuestro trabajo, ofreciendo efectividad, seguridad y profesionalismo.</p>
         
 <h2>Requerimientos funcionales</h2>
             <ul>
@@ -69,9 +68,6 @@
                 <li>Accesibilidad</li>
                 <li>Disponibilidad</li>
             </ul>
-             
- <h2>Alcance del producto</h2>
-            <p>Llegar a más clientes, maximizando ganancias, este incremento será a nivel regional, las comunidades más cercanas a la sucursal, que sea más conocido y por parte de la empresa BROWSEweb ganar clientes que confíen en nuestro trabajo, ofreciendo efectividad, seguridad y profesionalismo.</p>
            
 <h2>Clases y características de usuarios</h2>
             <ul>
