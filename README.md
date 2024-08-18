@@ -4,7 +4,7 @@
 
 
 <h2>Misión</h2>
-            <p>Ser una empresa innovadora que sea la primera opción de los clientes al querer y transformar sus negocios.</p>
+            <p>Ser una empresa innovadora, reconocida por ofrecer soluciones que transforma negocios y convertirnos en la primera.</p>
             
 <h2>Valores</h2>
             <p>Somos una empresa responsable, organizada y apasionada al realizar cada proyecto que realizamos.</p>
