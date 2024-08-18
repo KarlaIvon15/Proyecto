@@ -8,7 +8,8 @@
             
 <h2>Valores</h2>
             <p>Somos una empresa responsable, organizada y apasionada al realizar cada proyecto que realizamos.</p>
-            
+<h2>Organigrama de equipo</h2>
+<img src="https://github.com/KarlaIvon15/Proyecto/blob/main/Diagrama%20de%20Equipo.png" alt="imagen" class="center">
              
 <h2>Objetivo</h2>
             <p>A través de una página web se puede ofrecer un servicio de pedido en línea a fin de reducir tiempos, mejorar el servicio y tener clientes satisfechos, así tendremos un control de los pedidos y una administración de cierto tiempo desde la página y atraer más clientes y fidelizarlos.</p>
